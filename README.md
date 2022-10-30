@@ -1,6 +1,6 @@
 # Projeto Agenda
 
-Projeto feito para colocar em protica o que eu aprendi sobre js
+Projeto feito para colocar em protica o que eu aprendi sobre js, utilizando nodejs MongoBD,express.
 
 ## observação:
 
