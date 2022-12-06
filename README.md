@@ -1,6 +1,9 @@
 # Projeto Agenda
 
-Projeto feito para colocar em protica o que eu aprendi sobre js, utilizando nodejs MongoBD,express.
+Projeto feito para colocar em pratica o que eu aprendi sobre js, utilizando nodejs MongoBD,express.
+
+O projeto consiste em armazenar os contatos do usuario, nele tem sistema de login e cadastro de usuario,
+contem o CRUD dos contatos e controle de rotas. 
 
 ## observação:
 
